@@ -1,6 +1,6 @@
 ### Khaled Waleed
 
-I lead frontend at Iraq’s biggest tech company [Enjaz](https://enjaz.tech), [Qi](https://www.qi.iq)'s e-government arm, seven government platforms serving 4+ million users.I craft thoughtful interfaces and memorable experiences, and occasionally write.
+I lead frontend at Iraq’s biggest tech company [Enjaz](https://enjaz.tech), [Qi](https://www.qi.iq)'s e-government arm, seven government platforms serving 4+ million users. I craft thoughtful interfaces and memorable experiences, and occasionally write.
 
 checkout my [Website](https://khaledwaleed.com).
 
